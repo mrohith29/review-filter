@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
+from selenium.webdriver.common.by import By 
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
@@ -9,7 +9,7 @@ import time
 
 chrome_options = Options()
 
-chrome_driver_path = r'C:\Users\mariy\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe'
+chrome_driver_path = r"C:\Users\mariy\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe"
 
 service = Service(chrome_driver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
@@ -18,7 +18,7 @@ driver.get('https://www.amazon.in/Starshine-Storage-Powered-MediaTek-Display/pro
 
 driver.implicitly_wait(10)
 
-with open('output.txt', 'w', encoding='utf-8') as file:
+with open('reviews.txt', 'w', encoding='utf-8') as file:
 
     while True:
         html = driver.page_source
