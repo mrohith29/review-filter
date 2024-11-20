@@ -1,1 +1,16 @@
 reviews -> language translation -> emoji decoding
+
+- [x] reviews
+- [x] language translation
+- [x] emoji decoding
+- [x] sentiment analysis
+
+for sentiment analysis, we will use the reviews and translate them to English, then decode the emojis and then perform sentiment analysis on the reviews.
+
+In sentiment analysis, we have used SentimentIntensityAnalyzer from nltk library to get the sentiment scoreof the reviews and then classified them as positive, negative or neutral based on the score.
+
+The sentiment score is calculated using the polarity_score and as follows:
+- positive sentiment: compound score >= 0.05
+- neutral sentiment: compound score > -0.05 and compound score < 0.05
+- negative sentiment: compound score <= -0.05
+
