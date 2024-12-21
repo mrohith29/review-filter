@@ -1,0 +1,101 @@
+,Gender,Location,Product,Rating,Review,Sentiment
+0,Female,Florida,Headphones,2,"Not satisfied, overhyped and overpriced.",2.35
+1,Male,Texas,Headphones,5,"Outstanding performance, very smooth operation!",4.295
+2,Male,New York,Headphones,3,"The product is okay, does what it promises.",4.085
+3,Female,London,Monitor,1,"Disappointed, very slow performance.",2.047
+4,Male,London,Monitor,2,"Disappointed, very slow performance.",2.047
+5,Male,London,Monitor,1,"Not satisfied, overhyped and overpriced.",2.35
+6,Female,Berlin,Smartwatch,2,"Poor build quality, stopped working after a week.",1.775
+7,Male,Texas,Headphones,2,"Not satisfied, overhyped and overpriced.",2.35
+8,Male,Delhi,Keyboard,5,Highly recommend for anyone looking for quality!,3.948
+9,Male,Berlin,Laptop,5,"Value for money, works perfectly!",4.568
+10,Male,Florida,Headphones,3,"The product is okay, does what it promises.",4.085
+11,Male,Delhi,Smartwatch,5,Highly recommend for anyone looking for quality!,3.948
+12,Female,Texas,Bluetooth Speaker,5,Amazing battery life and great display.,4.672
+13,Male,Florida,Keyboard,4,Amazing battery life and great display.,4.672
+14,Male,Berlin,Monitor,4,Amazing battery life and great display.,4.672
+15,Female,London,Smartwatch,4,Highly recommend for anyone looking for quality!,3.948
+16,Female,Florida,Bluetooth Speaker,1,"Not satisfied, overhyped and overpriced.",2.35
+17,Female,Texas,Bluetooth Speaker,1,"Defective product, avoid buying this.",1.75
+18,Female,Texas,Camera,4,"Value for money, works perfectly!",4.568
+19,Male,London,Monitor,3,"The product is okay, does what it promises.",4.085
+20,Female,Washington,Smartphone,3,It’s functional but could be improved.,4.262
+21,Female,California,Smartwatch,5,"Excellent product, exceeded my expectations!",4.223
+22,Female,Sydney,Bluetooth Speaker,1,"Battery drains too quickly, not worth the price.",2.661
+23,Female,Florida,Keyboard,4,"Outstanding performance, very smooth operation!",4.295
+24,Female,New York,Bluetooth Speaker,5,"Value for money, works perfectly!",4.568
+25,Male,Tokyo,Bluetooth Speaker,4,Amazing battery life and great display.,4.672
+26,Male,London,Headphones,2,"Battery drains too quickly, not worth the price.",2.661
+27,Male,Washington,Laptop,3,"Works fine for regular use, nothing special.",2.765
+28,Male,Delhi,Smartwatch,1,"Defective product, avoid buying this.",1.75
+29,Male,New York,Monitor,4,"Value for money, works perfectly!",4.568
+30,Female,California,Gaming Console,4,"Outstanding performance, very smooth operation!",4.295
+31,Female,California,Headphones,4,Amazing battery life and great display.,4.672
+32,Male,Delhi,Monitor,3,"Average quality, neither great nor bad.",1.626
+33,Female,Tokyo,Keyboard,4,"Value for money, works perfectly!",4.568
+34,Female,New York,Smartphone,3,The features are decent for the price.,3.0
+35,Female,Sydney,Headphones,3,It’s functional but could be improved.,4.262
+36,Female,Texas,Bluetooth Speaker,5,"Outstanding performance, very smooth operation!",4.295
+37,Female,Florida,Bluetooth Speaker,3,It’s functional but could be improved.,4.262
+38,Male,Florida,Tablet,3,"Works fine for regular use, nothing special.",2.765
+39,Female,Tokyo,Smartwatch,3,The features are decent for the price.,3.0
+40,Female,California,Camera,4,"Value for money, works perfectly!",4.568
+41,Female,Washington,Tablet,1,"Poor build quality, stopped working after a week.",1.775
+42,Female,Tokyo,Headphones,5,Highly recommend for anyone looking for quality!,3.948
+43,Male,New York,Headphones,4,"Outstanding performance, very smooth operation!",4.295
+44,Male,Berlin,Monitor,2,"Not satisfied, overhyped and overpriced.",2.35
+45,Male,Florida,Camera,5,Amazing battery life and great display.,4.672
+46,Female,New York,Gaming Console,2,"Defective product, avoid buying this.",1.75
+47,Female,New York,Bluetooth Speaker,2,"Not satisfied, overhyped and overpriced.",2.35
+48,Female,London,Bluetooth Speaker,2,"Defective product, avoid buying this.",1.75
+49,Male,Texas,Monitor,2,"Disappointed, very slow performance.",2.047
+50,Male,Texas,Headphones,4,"Excellent product, exceeded my expectations!",4.223
+51,Male,Sydney,Smartwatch,3,It’s functional but could be improved.,4.262
+52,Male,Washington,Gaming Console,1,"Poor build quality, stopped working after a week.",1.775
+53,Female,New York,Keyboard,2,"Defective product, avoid buying this.",1.75
+54,Female,Delhi,Smartwatch,2,"Defective product, avoid buying this.",1.75
+55,Male,Tokyo,Smartphone,1,"Poor build quality, stopped working after a week.",1.775
+56,Female,Delhi,Keyboard,2,"Disappointed, very slow performance.",2.047
+57,Female,London,Smartwatch,1,"Not satisfied, overhyped and overpriced.",2.35
+58,Female,Texas,Headphones,3,"Average quality, neither great nor bad.",1.626
+59,Male,Sydney,Bluetooth Speaker,2,"Battery drains too quickly, not worth the price.",2.661
+60,Female,Texas,Laptop,5,Amazing battery life and great display.,4.672
+61,Female,California,Headphones,4,"Excellent product, exceeded my expectations!",4.223
+62,Male,London,Monitor,5,"Outstanding performance, very smooth operation!",4.295
+63,Female,Tokyo,Camera,4,"Value for money, works perfectly!",4.568
+64,Male,Florida,Smartwatch,1,"Disappointed, very slow performance.",2.047
+65,Male,California,Gaming Console,5,"Outstanding performance, very smooth operation!",4.295
+66,Female,Delhi,Keyboard,5,"Outstanding performance, very smooth operation!",4.295
+67,Male,New York,Camera,2,"Disappointed, very slow performance.",2.047
+68,Female,Berlin,Tablet,1,"Poor build quality, stopped working after a week.",1.775
+69,Female,Texas,Smartphone,1,"Not satisfied, overhyped and overpriced.",2.35
+70,Female,Sydney,Gaming Console,3,It’s functional but could be improved.,4.262
+71,Female,New York,Gaming Console,5,Amazing battery life and great display.,4.672
+72,Female,Delhi,Laptop,5,Highly recommend for anyone looking for quality!,3.948
+73,Female,Berlin,Keyboard,4,Amazing battery life and great display.,4.672
+74,Male,New York,Monitor,1,"Not satisfied, overhyped and overpriced.",2.35
+75,Male,London,Smartphone,1,"Disappointed, very slow performance.",2.047
+76,Male,New York,Laptop,2,"Defective product, avoid buying this.",1.75
+77,Male,Berlin,Monitor,4,"Value for money, works perfectly!",4.568
+78,Male,Delhi,Headphones,4,"Value for money, works perfectly!",4.568
+79,Female,California,Laptop,5,"Excellent product, exceeded my expectations!",4.223
+80,Male,New York,Headphones,4,"Outstanding performance, very smooth operation!",4.295
+81,Female,Tokyo,Monitor,3,It’s functional but could be improved.,4.262
+82,Female,Tokyo,Headphones,4,Amazing battery life and great display.,4.672
+83,Female,Florida,Camera,4,Amazing battery life and great display.,4.672
+84,Male,Berlin,Smartphone,2,"Poor build quality, stopped working after a week.",1.775
+85,Male,Texas,Monitor,5,"Value for money, works perfectly!",4.568
+86,Female,Florida,Tablet,1,"Disappointed, very slow performance.",2.047
+87,Male,Tokyo,Keyboard,3,It’s functional but could be improved.,4.262
+88,Female,New York,Headphones,2,"Disappointed, very slow performance.",2.047
+89,Female,New York,Camera,4,"Value for money, works perfectly!",4.568
+90,Male,Tokyo,Smartwatch,2,"Battery drains too quickly, not worth the price.",2.661
+91,Female,Berlin,Tablet,4,Highly recommend for anyone looking for quality!,3.948
+92,Male,Texas,Camera,4,Amazing battery life and great display.,4.672
+93,Male,Washington,Camera,2,"Poor build quality, stopped working after a week.",1.775
+94,Male,California,Smartwatch,2,"Battery drains too quickly, not worth the price.",2.661
+95,Male,Texas,Headphones,2,"Battery drains too quickly, not worth the price.",2.661
+96,Male,California,Headphones,5,"Excellent product, exceeded my expectations!",4.223
+97,Female,Delhi,Tablet,4,"Outstanding performance, very smooth operation!",4.295
+98,Male,Sydney,Smartphone,4,"Value for money, works perfectly!",4.568
+99,Female,Berlin,Monitor,1,"Poor build quality, stopped working after a week.",1.775
