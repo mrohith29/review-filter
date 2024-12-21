@@ -1,53 +1,53 @@
-Gender,Location,Product,Rating,Review,Sentiment
-Female,Florida,Headphones,2,Not satisfied, overhyped and overpriced.,2.35
-Female,London,Monitor,1,Disappointed, very slow performance.,2.047
-Female,Berlin,Smartwatch,2,Poor build quality, stopped working after a week.,1.775
-Female,Texas,Bluetooth Speaker,5,Amazing battery life and great display.,4.672
-Female,London,Smartwatch,4,Highly recommend for anyone looking for quality!,3.948
-Female,Florida,Bluetooth Speaker,1,Not satisfied, overhyped and overpriced.,2.35
-Female,Texas,Bluetooth Speaker,1,Defective product, avoid buying this.,1.75
-Female,Texas,Camera,4,Value for money, works perfectly!,4.568
-Female,Washington,Smartphone,3,It’s functional but could be improved.,4.262
-Female,California,Smartwatch,5,Excellent product, exceeded my expectations!,4.223
-Female,Sydney,Bluetooth Speaker,1,Battery drains too quickly, not worth the price.,2.661
-Female,Florida,Keyboard,4,Outstanding performance, very smooth operation!,4.295
-Female,New York,Bluetooth Speaker,5,Value for money, works perfectly!,4.568
-Female,California,Gaming Console,4,Outstanding performance, very smooth operation!,4.295
-Female,California,Headphones,4,Amazing battery life and great display.,4.672
-Female,Tokyo,Keyboard,4,Value for money, works perfectly!,4.568
-Female,New York,Smartphone,3,The features are decent for the price.,3.0
-Female,Sydney,Headphones,3,It’s functional but could be improved.,4.262
-Female,Texas,Bluetooth Speaker,5,Outstanding performance, very smooth operation!,4.295
-Female,Florida,Bluetooth Speaker,3,It’s functional but could be improved.,4.262
-Female,Tokyo,Smartwatch,3,The features are decent for the price.,3.0
-Female,California,Camera,4,Value for money, works perfectly!,4.568
-Female,Washington,Tablet,1,Poor build quality, stopped working after a week.,1.775
-Female,Tokyo,Headphones,5,Highly recommend for anyone looking for quality!,3.948
-Female,New York,Gaming Console,2,Defective product, avoid buying this.,1.75
-Female,New York,Bluetooth Speaker,2,Not satisfied, overhyped and overpriced.,2.35
-Female,London,Bluetooth Speaker,2,Defective product, avoid buying this.,1.75
-Female,New York,Keyboard,2,Defective product, avoid buying this.,1.75
-Female,Delhi,Smartwatch,2,Defective product, avoid buying this.,1.75
-Female,Delhi,Keyboard,2,Disappointed, very slow performance.,2.047
-Female,London,Smartwatch,1,Not satisfied, overhyped and overpriced.,2.35
-Female,Texas,Headphones,3,Average quality, neither great nor bad.,1.626
-Female,Texas,Laptop,5,Amazing battery life and great display.,4.672
-Female,California,Headphones,4,Excellent product, exceeded my expectations!,4.223
-Female,Tokyo,Camera,4,Value for money, works perfectly!,4.568
-Female,Delhi,Keyboard,5,Outstanding performance, very smooth operation!,4.295
-Female,Berlin,Tablet,1,Poor build quality, stopped working after a week.,1.775
-Female,Texas,Smartphone,1,Not satisfied, overhyped and overpriced.,2.35
-Female,Sydney,Gaming Console,3,It’s functional but could be improved.,4.262
-Female,New York,Gaming Console,5,Amazing battery life and great display.,4.672
-Female,Delhi,Laptop,5,Highly recommend for anyone looking for quality!,3.948
-Female,Berlin,Keyboard,4,Amazing battery life and great display.,4.672
-Female,California,Laptop,5,Excellent product, exceeded my expectations!,4.223
-Female,Tokyo,Monitor,3,It’s functional but could be improved.,4.262
-Female,Tokyo,Headphones,4,Amazing battery life and great display.,4.672
-Female,Florida,Camera,4,Amazing battery life and great display.,4.672
-Female,Florida,Tablet,1,Disappointed, very slow performance.,2.047
-Female,New York,Headphones,2,Disappointed, very slow performance.,2.047
-Female,New York,Camera,4,Value for money, works perfectly!,4.568
-Female,Berlin,Tablet,4,Highly recommend for anyone looking for quality!,3.948
-Female,Delhi,Tablet,4,Outstanding performance, very smooth operation!,4.295
-Female,Berlin,Monitor,1,Poor build quality, stopped working after a week.,1.775
+Gender,Location,Product,Rating,Review,Sentiment_Value,Combine_Score,Sentiment
+Female,Florida,Headphones,2,Not satisfied, overhyped and overpriced.,1.175,1.588,Negative
+Female,London,Monitor,1,Disappointed, very slow performance.,1.023,1.011,Negative
+Female,Berlin,Smartwatch,2,Poor build quality, stopped working after a week.,0.888,1.444,Negative
+Female,Texas,Bluetooth Speaker,5,Amazing battery life and great display.,2.336,3.668,Positive
+Female,London,Smartwatch,4,Highly recommend for anyone looking for quality!,1.974,2.987,Positive
+Female,Florida,Bluetooth Speaker,1,Not satisfied, overhyped and overpriced.,1.175,1.088,Negative
+Female,Texas,Bluetooth Speaker,1,Defective product, avoid buying this.,0.875,0.938,Negative
+Female,Texas,Camera,4,Value for money, works perfectly!,2.284,3.142,Positive
+Female,Washington,Smartphone,3,It’s functional but could be improved.,2.131,2.566,Neutral
+Female,California,Smartwatch,5,Excellent product, exceeded my expectations!,2.111,3.556,Positive
+Female,Sydney,Bluetooth Speaker,1,Battery drains too quickly, not worth the price.,1.331,1.166,Negative
+Female,Florida,Keyboard,4,Outstanding performance, very smooth operation!,2.148,3.074,Positive
+Female,New York,Bluetooth Speaker,5,Value for money, works perfectly!,2.284,3.642,Positive
+Female,California,Gaming Console,4,Outstanding performance, very smooth operation!,2.148,3.074,Positive
+Female,California,Headphones,4,Amazing battery life and great display.,2.336,3.168,Positive
+Female,Tokyo,Keyboard,4,Value for money, works perfectly!,2.284,3.142,Positive
+Female,New York,Smartphone,3,The features are decent for the price.,1.5,2.25,Negative
+Female,Sydney,Headphones,3,It’s functional but could be improved.,2.131,2.566,Neutral
+Female,Texas,Bluetooth Speaker,5,Outstanding performance, very smooth operation!,2.148,3.574,Positive
+Female,Florida,Bluetooth Speaker,3,It’s functional but could be improved.,2.131,2.566,Neutral
+Female,Tokyo,Smartwatch,3,The features are decent for the price.,1.5,2.25,Negative
+Female,California,Camera,4,Value for money, works perfectly!,2.284,3.142,Positive
+Female,Washington,Tablet,1,Poor build quality, stopped working after a week.,0.888,0.944,Negative
+Female,Tokyo,Headphones,5,Highly recommend for anyone looking for quality!,1.974,3.487,Positive
+Female,New York,Gaming Console,2,Defective product, avoid buying this.,0.875,1.438,Negative
+Female,New York,Bluetooth Speaker,2,Not satisfied, overhyped and overpriced.,1.175,1.588,Negative
+Female,London,Bluetooth Speaker,2,Defective product, avoid buying this.,0.875,1.438,Negative
+Female,New York,Keyboard,2,Defective product, avoid buying this.,0.875,1.438,Negative
+Female,Delhi,Smartwatch,2,Defective product, avoid buying this.,0.875,1.438,Negative
+Female,Delhi,Keyboard,2,Disappointed, very slow performance.,1.023,1.511,Negative
+Female,London,Smartwatch,1,Not satisfied, overhyped and overpriced.,1.175,1.088,Negative
+Female,Texas,Headphones,3,Average quality, neither great nor bad.,0.813,1.906,Negative
+Female,Texas,Laptop,5,Amazing battery life and great display.,2.336,3.668,Positive
+Female,California,Headphones,4,Excellent product, exceeded my expectations!,2.111,3.056,Positive
+Female,Tokyo,Camera,4,Value for money, works perfectly!,2.284,3.142,Positive
+Female,Delhi,Keyboard,5,Outstanding performance, very smooth operation!,2.148,3.574,Positive
+Female,Berlin,Tablet,1,Poor build quality, stopped working after a week.,0.888,0.944,Negative
+Female,Texas,Smartphone,1,Not satisfied, overhyped and overpriced.,1.175,1.088,Negative
+Female,Sydney,Gaming Console,3,It’s functional but could be improved.,2.131,2.566,Neutral
+Female,New York,Gaming Console,5,Amazing battery life and great display.,2.336,3.668,Positive
+Female,Delhi,Laptop,5,Highly recommend for anyone looking for quality!,1.974,3.487,Positive
+Female,Berlin,Keyboard,4,Amazing battery life and great display.,2.336,3.168,Positive
+Female,California,Laptop,5,Excellent product, exceeded my expectations!,2.111,3.556,Positive
+Female,Tokyo,Monitor,3,It’s functional but could be improved.,2.131,2.566,Neutral
+Female,Tokyo,Headphones,4,Amazing battery life and great display.,2.336,3.168,Positive
+Female,Florida,Camera,4,Amazing battery life and great display.,2.336,3.168,Positive
+Female,Florida,Tablet,1,Disappointed, very slow performance.,1.023,1.011,Negative
+Female,New York,Headphones,2,Disappointed, very slow performance.,1.023,1.511,Negative
+Female,New York,Camera,4,Value for money, works perfectly!,2.284,3.142,Positive
+Female,Berlin,Tablet,4,Highly recommend for anyone looking for quality!,1.974,2.987,Positive
+Female,Delhi,Tablet,4,Outstanding performance, very smooth operation!,2.148,3.074,Positive
+Female,Berlin,Monitor,1,Poor build quality, stopped working after a week.,0.888,0.944,Negative
